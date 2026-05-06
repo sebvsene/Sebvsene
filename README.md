@@ -19,10 +19,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://komarev.com/ghpvc/?username=sebvsene)
 
 <img width="1199" height="755" alt="IMG_8842" src="https://github.com/user-attachments/assets/66f633e5-f66f-404c-85d5-2977525e3c33" />
-
 <img width="150" height="20" alt="IMG_8839" src="https://github.com/user-attachments/assets/777d1bc0-40b5-4eb6-adfb-9c1b19d6b4e0" />
-
 <img width="150" height="20" alt="IMG_8840" src="https://github.com/user-attachments/assets/a1ef0359-0089-4e62-a4d9-231f151efabc" />
-
 <img width="150" height="20" alt="IMG_8841" src="https://github.com/user-attachments/assets/781bac50-1cbc-45c8-af3d-53735ab023b9" />
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
