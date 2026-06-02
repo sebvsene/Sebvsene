@@ -23,7 +23,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[@title-town](https://github.com/title-town)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝘛𝘩𝘢𝘯𝘬 𝘺𝘰𝘶 𝙩𝙞𝙩𝙡𝙚-𝙩𝙤𝙬𝙣 𝘧𝘰𝘳 𝘳𝘦𝘤𝘰𝘨𝘯𝘪𝘻𝘪𝘯𝘨 𝘮𝘦 𝘢𝘴 𝙩𝙝𝙚𝙚 𝙅𝙖𝙨𝙤𝙣 𝙏𝙤𝙙𝙙 𝘰𝘧 𝘱𝘵!!
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://img.shields.io/badge/Profile%20Views-2,130-480203?style=flat-square)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://img.shields.io/badge/𝘉𝘶𝘭𝘭𝘦𝘵𝘴%20→-2,130-480203?style=flat-square)
 <img width="1200" height="675" alt="Untitled41_20260529194032" src="https://github.com/user-attachments/assets/158f3456-088d-4c46-a4e7-cf787478f383" />
 ⠀⠀⠀<img width="150" height="20" alt="IMG_8839" src="https://github.com/user-attachments/assets/777d1bc0-40b5-4eb6-adfb-9c1b19d6b4e0" />
 <img width="150" height="20" alt="IMG_8840" src="https://github.com/user-attachments/assets/a1ef0359-0089-4e62-a4d9-231f151efabc" />
