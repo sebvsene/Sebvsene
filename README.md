@@ -15,7 +15,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[@title-town](https://github.com/title-town)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![𝘽𝙪𝙡𝙡𝙚𝙩𝙨](https://komarev.com/ghpvc/?username=sebvsene&label=𝘽𝙪𝙡𝙡𝙚𝙩𝙨%20&color=F40100&style=flat-square&base=6789)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![𝘽𝙪𝙡𝙡𝙚𝙩𝙨](https://komarev.com/ghpvc/?username=sebvsene&label=𝘽𝙪𝙡𝙡𝙚𝙩𝙨%20&color=500504&style=flat-square&base=6789)
 <img width="1200" height="675" alt="Untitled41_20260529194032" src="https://github.com/user-attachments/assets/158f3456-088d-4c46-a4e7-cf787478f383" />
 ⠀⠀⠀<img width="150" height="20" alt="IMG_8839" src="https://github.com/user-attachments/assets/777d1bc0-40b5-4eb6-adfb-9c1b19d6b4e0" />
 <img width="150" height="20" alt="IMG_8840" src="https://github.com/user-attachments/assets/a1ef0359-0089-4e62-a4d9-231f151efabc" />
