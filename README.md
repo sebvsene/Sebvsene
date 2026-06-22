@@ -13,6 +13,9 @@
 <br>
 ⛧°.⋆[𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦 2/2](https://sebvsene.straw.page) · [𝘛𝘩𝘦𝘦 𝘑𝘢𝘴𝘰𝘯 𝘛𝘰𝘥𝘥 𝘰𝘧 𝘱𝘵](https://github.com/title-town) · [新𝘣𝘰𝘰𝘬](https://sebvsene.atabook.org) · [𝘈𝘣𝘰𝘶𝘵 𝘮𝘦!](https://sebvsene.carrd.co)!⋆. °⛧
 <br>
-<img width="800" height="1100" alt="Untitled103_20260622124601" src="https://github.com/user-attachments/assets/f838ed2b-6963-44cc-9d2e-848b067bab96" />
+
+<img width="500" height="300" alt="Untitled106_20260622172328" src="https://github.com/user-attachments/assets/409f585c-f04f-4abe-99d3-6a202b7253d4" />
+<br>
+<img width="400" height="150" alt="Untitled104_20260622170604" src="https://github.com/user-attachments/assets/a698a6d5-5042-4423-8ce6-f299c834e68c" />
 
 </div>
