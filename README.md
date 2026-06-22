@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B1B14&center=true&vCenter=true&width=435&lines=;"+I+died+a+HERO.+"+;"+Say+hi+to+Joker+for+me.+";"+Hush+up,+constabl[...]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B1B14&center=true&vCenter=true&width=435&lines=;"+I+died+a+HERO.+"+;"+Say+hi+to+Joker+for+me.+";"+Hush+up,+constable+daddy's+busy.+")
 
 <img width="400" height="300" alt="Untitled104_20260622135145" src="https://github.com/user-attachments/assets/20e13e31-bbae-4e3c-9961-46da55ce4ded" />
 
