@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 <img width="400" height="150" alt="Untitled104_20260622135145" src="https://github.com/user-attachments/assets/20e13e31-bbae-4e3c-9961-46da55ce4ded" />
-<br>
+<br> 
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5B40&center=true&vCenter=true&width=435&lines=;+I+died+a+HERO.+;+Say+hi+to+Joker+for+me.;+Hush+up,+constable+daddy's+busy.+)
 <br>
@@ -11,9 +11,7 @@
 <br>
 
 ![𝘉𝘶𝘭𝘭𝘦𝘵𝘴](https://komarev.com/ghpvc/?username=sebvsene&label=𝘉𝘶𝘭𝘭𝘦𝘵𝘴%20&base=5678&color=26120A&style=flat-square)
-
 <br>
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5B40&center=true&vCenter=true&width=435&lines=;We,+yes+WE,love+burgers!)
 <br>
 <img width="500" height="300" alt="Untitled106_20260622172328" src="https://github.com/user-attachments/assets/409f585c-f04f-4abe-99d3-6a202b7253d4" />
