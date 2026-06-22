@@ -11,7 +11,8 @@
 <br>
 ![𝘉𝘶𝘭𝘭𝘦𝘵𝘴](https://komarev.com/ghpvc/?username=sebvsene&label=𝘉𝘶𝘭𝘭𝘦𝘵𝘴%20&base=5678&color=26120A&style=flat-square)
 <br>
-![⛧°.⋆](https://img.shields.io/badge/⋆.%20°⛧-brown?style=flat&color=CBA66C)[𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦 2/2](https://sebvsene.straw.page) · [𝘛𝘩𝘦𝘦 𝘑𝘢𝘴𝘰𝘯 𝘛𝘰𝘥𝘥 𝘰𝘧 𝘱𝘵](https://github.com/title-town) · [新𝘣𝘰𝘰𝘬](https://sebvsene.atabook.org) · [𝘈𝘣𝘰𝘶𝘵 𝘮𝘦!](https://sebvsene.carrd.co)![⋆. °⛧](https://img.shields.io/badge/⋆.%20°⛧-brown?style=flat&color=CBA66C)
-<img width="842" height="1120" alt="Untitled103_20260622124601" src="https://github.com/user-attachments/assets/f838ed2b-6963-44cc-9d2e-848b067bab96" />
+⛧°.⋆[𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦 2/2](https://sebvsene.straw.page) · [𝘛𝘩𝘦𝘦 𝘑𝘢𝘴𝘰𝘯 𝘛𝘰𝘥𝘥 𝘰𝘧 𝘱𝘵](https://github.com/title-town) · [新𝘣𝘰𝘰𝘬](https://sebvsene.atabook.org) · [𝘈𝘣𝘰𝘶𝘵 𝘮𝘦!](https://sebvsene.carrd.co)!⋆. °⛧
+<br>
+<img width="842" height="1100" alt="Untitled103_20260622124601" src="https://github.com/user-attachments/assets/f838ed2b-6963-44cc-9d2e-848b067bab96" />
 
 </div>
