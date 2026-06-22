@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B1B14&center=true&vCenter=true&width=435&lines=;"+I+died+a+HERO.+"+;"+Say+hi+to+Joker+for+me.+";"+Hush+up,+constable.+Daddy's+busy.+")
 
-  <img width="736" height="414" alt="Untitled104_20260622135020" src="https://github.com/user-attachments/assets/5e812e87-fc8c-4e02-80bb-22fb6cf6fe13" />
+  <img width="400" height="300" alt="Untitled104_20260622135020" src="https://github.com/user-attachments/assets/5e812e87-fc8c-4e02-80bb-22fb6cf6fe13" />
 
   [𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦 1/2](https://sebvsene.straw.page) · [𝘛𝘩𝘦𝘦 𝘑𝘢𝘴𝘰𝘯 𝘛𝘰𝘥𝘥 𝘰𝘧 𝘱𝘵](https://github.com/title-town) · [新book](https://sebvsene.atabook.org) · [𝘈𝘣𝘰𝘶𝘵 𝘮𝘦](https://sebvsene.carrd.co)
 
