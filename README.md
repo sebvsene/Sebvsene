@@ -10,7 +10,7 @@
 <img width="150" height="150" alt="Untitled105_20260622165420" src="https://github.com/user-attachments/assets/2f9a3f40-cebb-46a9-a55c-45373af7e86a" />
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5B40&center=true&vCenter=true&width=435&lines=;+I'm+not+good+or+bad,;I'm+just+practical+as+hell.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5B40&center=true&vCenter=true&width=435&lines=;We,+yes+WE,love+burgers!)
 <br>
 <img width="500" height="300" alt="Untitled106_20260622172328" src="https://github.com/user-attachments/assets/409f585c-f04f-4abe-99d3-6a202b7253d4" />
 <br>
