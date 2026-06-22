@@ -3,6 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B1B14&center=true&vCenter=true&width=435&lines=;"+I+died+a+HERO.+"+;"+Say+hi+to+Joker+for+me.+";"+Hush+up,+constable+daddy's+busy.+")
 
 <img width="400" height="300" alt="Untitled104_20260622135145" src="https://github.com/user-attachments/assets/20e13e31-bbae-4e3c-9961-46da55ce4ded" />
+
+![𝘉𝘶𝘭𝘭𝘦𝘵𝘴](https://komarev.com/ghpvc/?username=sebvsene&label=Pretty%20Faces&base=5678&color=26120A&style=flat-square)
   
 [𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦 2/2](https://sebvsene.straw.page) · [𝘛𝘩𝘦𝘦 𝘑𝘢𝘴𝘰𝘯 𝘛𝘰𝘥𝘥 𝘰𝘧 𝘱𝘵](https://github.com/title-town) · [新𝘣𝘰𝘰𝘬](https://sebvsene.atabook.org) · [𝘈𝘣𝘰𝘶𝘵 𝘮𝘦!](https://sebvsene.carrd.co)
 <img width="700" height="704" alt="Untitled103_20260622124601" src="https://github.com/user-attachments/assets/86b50e76-540a-41f4-a108-c53280f6c1d9" />
