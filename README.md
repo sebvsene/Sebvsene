@@ -1,10 +1,12 @@
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5B40&center=true&vCenter=true&width=435&lines=;"+I+died+a+HERO.+"+;"+Say+hi+to+Joker+for+me.+";"+Hush+up,+constable+daddy's+busy.+")
-<br>
+
 <img width="400" height="300" alt="Untitled104_20260622135145" src="https://github.com/user-attachments/assets/20e13e31-bbae-4e3c-9961-46da55ce4ded" />
 
+
 <img width="150" height="150" alt="Untitled105_20260622165420" src="https://github.com/user-attachments/assets/2f9a3f40-cebb-46a9-a55c-45373af7e86a" />
+<br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5B40&center=true&vCenter=true&width=435&lines=;Check+out+the+links+below.+;NOW!!!;No?;Pretty+please?;Pretty,+pretty,+pretty,+PLEASE!!!;yay+thank+you!)
 <br>
