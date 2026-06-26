@@ -6,7 +6,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5B40&center=true&vCenter=true&width=435&lines=;+I+died+a+HERO.+;+Say+hi+to+Joker+for+me.;+Hush+up,+constable+daddy's+busy.+)
 <br>
 <br>
-<img width="150" height="150" alt="Untitled105_20260622165420" src="https://github.com/user-attachments/assets/2f9a3f40-cebb-46a9-a55c-45373af7e86a" />
+<img width="100" height="100" alt="Untitled105_20260622165420" src="https://github.com/user-attachments/assets/2f9a3f40-cebb-46a9-a55c-45373af7e86a" />
+<br>
 <br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=spotify-embed&show_offline=true&background_color=846147&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 <br>
