@@ -1,7 +1,7 @@
 <div align="center">
 <br>
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5B40&center=true&vCenter=true&width=435&lines=;+I+died+a+HERO.+;+Say+hi+to+Joker+for+me.;+Hush+up,+constable.+Daddy's+busy.+Be+a+doll+and+hand+me+my+gun.+Try+and+catch+me,+you+big+boob!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5B40&center=true&vCenter=true&width=435&lines=;+I+died+a+HERO.+;+Say+hi+to+Joker+for+me.;+Hush+up,+constable.+Daddy's+busy.++Be+a+doll+and+hand+me+my+gun.+Try+and+catch+me,+you+big+boob!)
   
 <img width="400" height="150" alt="Untitled104_20260622135145" src="https://github.com/user-attachments/assets/20e13e31-bbae-4e3c-9961-46da55ce4ded" />
 <br>
