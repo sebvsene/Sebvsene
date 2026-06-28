@@ -17,7 +17,7 @@
 <br>
 ⸝⸝
 <br>
-[𝘙𝘦𝘯𝘵𝘳𝘺 - 𝘵𝘺𝘴𝘮 𝘢𝘦𝘴𝘻𝘻!](https://rentry.co/worldsgreatestvigilante)
+[𝘙𝘦𝘯𝘵𝘳𝘺 - 𝘵𝘺𝘴𝘮 𝘢𝘦𝘴𝘻𝘻!](https://rentry.co/worldsgreatestvigilante) · [𝘔𝘢𝘵𝘤𝘩𝘪𝘯𝘨](https://rentry.co/thejusticeIeague)
 <br>
 <img width="400" height="150" alt="Untitled104_20260622170604" src="https://github.com/user-attachments/assets/a698a6d5-5042-4423-8ce6-f299c834e68c" />
 <br>
