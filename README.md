@@ -13,7 +13,7 @@
 <br>
 <img width="500" height="300" alt="Untitled106_20260622172328" src="https://github.com/user-attachments/assets/409f585c-f04f-4abe-99d3-6a202b7253d4" />
 <br>
-⛧°.⋆[𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦𝘴](https://sebvsene.straw.page) · [𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯](https://github.com/title-town) · [新𝘣𝘰𝘰𝘬](https://sebvsene.atabook.org) · [𝘤𝘢𝘳𝘳𝘥.𝘤𝘰](https://sebvsene.carrd.co)⋆. °⛧
+⛧°.⋆[𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦𝘴](https://sebvsene.straw.page) · [𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯](https://github.com/title-town) · [新𝘣𝘰𝘰𝘬](https://sebvsene.atabook.org) · [𝘤𝘢𝘳𝘳𝘥.𝘤𝘰](https://sebvsenee.carrd.co)⋆. °⛧
 <br>
 ⸝⸝
 <br>
