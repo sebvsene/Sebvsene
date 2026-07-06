@@ -4,7 +4,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5B40&center=true&vCenter=true&width=435&lines=;+I+died+a+HERO.+;+Say+hi+to+Joker+for+me.;+Hush+up,+constable.+Daddy's+busy.;+Be+a+doll+and+hand+me+my+gun.;+Try+and+catch+me,+you+big+boob!;Hello,+safe+house.+Hello,+bed.)
   
 <img width="400" height="150" alt="Untitled104_20260622135145" src="https://github.com/user-attachments/assets/20e13e31-bbae-4e3c-9961-46da55ce4ded" />
-<br>
+
+$\color{#7D5B40}{\textsf{Jason Peter Todd.}}$
+
 <img width="100" height="100" alt="Untitled105_20260622165420" src="https://github.com/user-attachments/assets/2f9a3f40-cebb-46a9-a55c-45373af7e86a" />
 <br>
 
@@ -28,7 +30,5 @@
 <br>
 <br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=spotify-embed&show_offline=true&background_color=846147&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
-$\color{#7D5B40}{\textsf{Jason Peter Todd.}}$
 
 </div>
