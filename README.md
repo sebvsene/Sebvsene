@@ -24,6 +24,9 @@ $\color{#7D5B40}{\textsf{Jason Peter Todd.}}$
 ⸝⸝
 <br>
 [𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯](https://github.com/title-town)
+
+$\color{#7D5B40}{\textsf{Thee Jason Todd Of Ponytown.}}$
+
 <br>
 <img width="400" height="150" alt="Untitled104_20260622170604" src="https://github.com/user-attachments/assets/a698a6d5-5042-4423-8ce6-f299c834e68c" />
 <br>
