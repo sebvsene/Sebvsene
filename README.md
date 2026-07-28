@@ -32,6 +32,6 @@ $\color{#7D5B40}{\textsf{Thee Jason Todd Of Ponytown.}}$
 <br>
 <br>
 <br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=spotify-embed&show_offline=true&background_color=846147&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=false&background_color=552c18&interchange=false&profanity=false&hide_remaster=false&bar_color=de9150&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&redirect=true)
 
 </div>
