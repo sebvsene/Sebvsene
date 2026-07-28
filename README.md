@@ -29,7 +29,7 @@ $\color{#DA8A4D}{\textsf{If He Was Real.}}$
 [𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯](https://github.com/title-town)
 <br>
 <br>
-$\color{#7D5B40}{\textsf{Thee Jason Todd Of Ponytown.}}$
+$\color{#7D5B40}{\textsf{Thee}}$ $\color{#DA8A4D}{\textsf{Jason}}$ $\color{#7D5B40}{\textsf{Todd}}$ $\color{#DA8A4D}{\textsf{Of}}$ $\color{#7D5B40}{\textsf{PonyTown.}}$
 <br>
 <img width="400" height="150" alt="Untitled104_20260622170604" src="https://github.com/user-attachments/assets/a698a6d5-5042-4423-8ce6-f299c834e68c" />
 <br>
