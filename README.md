@@ -18,8 +18,9 @@ $\color{#7D5B40}{\textsf{If}}$ $\color{#DA8A4D}{\textsf{He}}$ $\color{#7D5B40}{\
 <br>
 <img width="500" height="300" alt="Untitled106_20260622172328" src="https://github.com/user-attachments/assets/409f585c-f04f-4abe-99d3-6a202b7253d4" />
 <br>
-⛧°.⋆[𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦(𝘴)](https://sebvsene.straw.page) · [新𝘣𝘰𝘰𝘬](https://sebvsene.atabook.org) · [𝘤𝘢𝘳𝘳𝘥.𝘤𝘰](https://sebvsenee.carrd.co)⋆. °⛧
+$\color{#7D5B40}{\textsf{Linkies}}$
 <br>
+$\color{#DA8A4D}{\textsf{—>}}$ [𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦(𝘴)](https://sebvsene.straw.page) · [新𝘣𝘰𝘰𝘬](https://sebvsene.atabook.org) · [𝘤𝘢𝘳𝘳𝘥.𝘤𝘰](https://sebvsenee.carrd.co) $\color{#DA8A4D}{\textsf{<—}}$ <br>
 ⸝⸝
 <br>
 [𝘙𝘦𝘯𝘵𝘳𝘺 - 𝘵𝘺𝘴𝘮 𝘢𝘦𝘴𝘻𝘻!](https://rentry.co/worldsgreatestvigilante) · [𝘔𝘢𝘵𝘤𝘩𝘪𝘯𝘨](https://rentry.co/thejusticeIeague)
