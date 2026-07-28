@@ -5,9 +5,9 @@
   
 <img width="400" height="150" alt="Untitled104_20260622135145" src="https://github.com/user-attachments/assets/20e13e31-bbae-4e3c-9961-46da55ce4ded" />
 
-$\color{#7D5B40}{\textsf{Jason Todd}}$
+$\color{#7D5B40}{\textsf{Jason}}$ $\color{#DA8A4D}{\textsf{Todd}}$
 <br>
-$\color{#DA8A4D}{\textsf{If He Was Real.}}$
+$\color{#7D5B40}{\textsf{If}}$ $\color{#DA8A4D}{\textsf{He}}$ $\color{#7D5B40}{\textsf{Was}}$ $\color{#DA8A4D}{\textsf{Real}}$
 <br>
 <br>
 <img width="100" height="100" alt="Untitled105_20260622165420" src="https://github.com/user-attachments/assets/2f9a3f40-cebb-46a9-a55c-45373af7e86a" />
