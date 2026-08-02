@@ -20,18 +20,16 @@ $\color{#7D5B40}{\textsf{If}}$ $\color{#DA8A4D}{\textsf{He}}$ $\color{#7D5B40}{\
 <br>
 $\color{#7D5B40}{\textsf{Linkies}}$
 <br>
-$\color{#DA8A4D}{\textsf{—>}}$ [𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦(𝘴)](https://sebvsene.straw.page) · [新𝘣𝘰𝘰𝘬](https://sebvsene.atabook.org) · [𝘤𝘢𝘳𝘳𝘥.𝘤𝘰](https://sebvsenee.carrd.co) $\color{#DA8A4D}{\textsf{<—}}$ <br>
+⸝⸝ [![新BOOK](https://img.shields.io/badge/-新BOOK-7D5B40?style=for-the-badge&logo=book&logoColor=black)](https://sebvsene.atabook.org) 
+[![STRAWPAGE](https://img.shields.io/badge/-STRAWPAGE-DA8A4D?style=for-the-badge&logo=ghost&logoColor=black)](https://sebvsene.straw.page) [![RENTRY](https://img.shields.io/badge/-RENTRY-7D5B40?style=for-the-badge&logo=ghost&logoColor=black)](https://rentry.co/worldsgreatestvigilante)  [![RENTRY/MATCHING](https://img.shields.io/badge/-RENTRY/MATCHING-DA8A4D?style=for-the-badge&logo=ghost&logoColor=black)](https://rentry.co/worldsgreatestvigilante)
 ⸝⸝
 <br>
-[𝘙𝘦𝘯𝘵𝘳𝘺 - 𝘵𝘺𝘴𝘮 𝘢𝘦𝘴𝘻𝘻!](https://rentry.co/worldsgreatestvigilante) · [𝘔𝘢𝘵𝘤𝘩𝘪𝘯𝘨](https://rentry.co/thejusticeIeague)
-<br>
 ⸝⸝
 <br>
+$\color{#7D5B40}{\textsf{Thee}}$ $\color{#DA8A4D}{\textsf{Jason}}$ $\color{#7D5B40}{\textsf{Todd}}$ $\color{#DA8A4D}{\textsf{Of}}$ $\color{#7D5B40}{\textsf{PonyTown.}}$<br>
 [𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯](https://github.com/title-town) · [
 𝘱𝘵-𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘳𝘴](https://github.com/pt-contributers) · [𝘱𝘵-𝘰𝘧-𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘯𝘦𝘴𝘴](https://github.com/pt-of-awesomeness)
 <br>
-<br>
-$\color{#7D5B40}{\textsf{Thee}}$ $\color{#DA8A4D}{\textsf{Jason}}$ $\color{#7D5B40}{\textsf{Todd}}$ $\color{#DA8A4D}{\textsf{Of}}$ $\color{#7D5B40}{\textsf{PonyTown.}}$
 <br>
 <img width="400" height="150" alt="Untitled104_20260622170604" src="https://github.com/user-attachments/assets/a698a6d5-5042-4423-8ce6-f299c834e68c" />
 <br>
