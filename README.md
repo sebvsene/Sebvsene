@@ -21,7 +21,7 @@ $\color{#7D5B40}{\textsf{If}}$ $\color{#DA8A4D}{\textsf{He}}$ $\color{#7D5B40}{\
 $\color{#7D5B40}{\textsf{Linkies}}$
 <br>
 ⸝⸝ [![新BOOK](https://img.shields.io/badge/-新BOOK-7D5B40?style=for-the-badge&logo=book&logoColor=black)](https://sebvsene.atabook.org) 
-[![STRAWPAGE](https://img.shields.io/badge/-STRAWPAGE-DA8A4D?style=for-the-badge&logo=ghost&logoColor=black)](https://sebvsene.straw.page) [![RENTRY](https://img.shields.io/badge/-RENTRY-7D5B40?style=for-the-badge&logo=ghost&logoColor=black)](https://rentry.co/worldsgreatestvigilante)  [![RENTRY/MATCHING](https://img.shields.io/badge/-RENTRY/MATCHING-DA8A4D?style=for-the-badge&logo=ghost&logoColor=black)](https://rentry.co/worldsgreatestvigilante)
+[![STRAWPAGE](https://img.shields.io/badge/-STRAWPAGE-DA8A4D?style=for-the-badge&logo=bat&logoColor=7D5B40)](https://sebvsene.straw.page) [![RENTRY](https://img.shields.io/badge/-RENTRY-7D5B40?style=for-the-badge&logo=gun&logoColor=black)](https://rentry.co/worldsgreatestvigilante)  [![RENTRY/MATCHING](https://img.shields.io/badge/-RENTRY/MATCHING-DA8A4D?style=for-the-badge&logo=bat&logoColor=7D5B40)](https://rentry.co/worldsgreatestvigilante)
 ⸝⸝
 <br>
 ⸝⸝
