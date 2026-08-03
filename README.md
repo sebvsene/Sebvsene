@@ -1,5 +1,5 @@
 <div align="center">
-<img width="666" height="298" alt="Untitled11_20260803123545" src="https://github.com/user-attachments/assets/e699cfab-e1c6-431a-9f74-22e828af0cf2" /> 
+<img width="900" height="540” alt="Untitled18_20260803145702" src="https://github.com/user-attachments/assets/409e094f-7ffb-4a2b-a679-978924192d05" />
 <br> 
 <img width="75" height="75" alt="Untitled16_20260803134649" src="https://github.com/user-attachments/assets/c5612e6c-1ec2-4942-9910-a473d019edc8" /> <img width="80" height="80" alt="Untitled16_20260803134843" src="https://github.com/user-attachments/assets/c925698a-91cd-46ce-965e-d9da14f2247c" /> 
 
@@ -17,6 +17,5 @@ $\color{#9087BD}{\textsf{Thee}}$ $\color{#2A3669}{\textsf{Jason}}$ $\color{#EDFF
 𝘱𝘵-𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘳𝘴](https://github.com/pt-contributers) · [𝘱𝘵-𝘰𝘧-𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘯𝘦𝘴𝘴](https://github.com/pt-of-awesomeness) · [𝘱𝘰𝘯𝘺𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴](https://github.com/ponychievements)
 <br> <br> <img width="80" height="80" alt="Untitled16_20260803134430" src="https://github.com/user-attachments/assets/655ee76a-e4ae-428c-ba7f-1ce4e332e3ec" />
 
-  
-<img width="666" height="298" alt="Untitled14_20260803123647" src="https://github.com/user-attachments/assets/b3ae826d-88d0-4e6b-9fe5-87fe4bc3e3f1" />
+<img width="900" height="540" alt="Untitled18_20260803150023" src="https://github.com/user-attachments/assets/9085cae0-4c6e-418a-8389-6e7ec3e07aa9" />
 
