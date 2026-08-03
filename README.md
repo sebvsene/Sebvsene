@@ -28,7 +28,7 @@ $\color{#7D5B40}{\textsf{Linkies}}$
 <br>
 $\color{#7D5B40}{\textsf{Thee}}$ $\color{#DA8A4D}{\textsf{Jason}}$ $\color{#7D5B40}{\textsf{Todd}}$ $\color{#DA8A4D}{\textsf{Of}}$ $\color{#7D5B40}{\textsf{PonyTown.}}$<br>
 [𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯](https://github.com/title-town) · [
-𝘱𝘵-𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘳𝘴](https://github.com/pt-contributers) · [𝘱𝘵-𝘰𝘧-𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘯𝘦𝘴𝘴](https://github.com/pt-of-awesomeness)
+𝘱𝘵-𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘳𝘴](https://github.com/pt-contributers) · [𝘱𝘵-𝘰𝘧-𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘯𝘦𝘴𝘴](https://github.com/pt-of-awesomeness) · [𝘱𝘰𝘯𝘺𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴](https://github.com/ponychievements)
 <br>
 <br>
 <img width="400" height="150" alt="Untitled104_20260622170604" src="https://github.com/user-attachments/assets/a698a6d5-5042-4423-8ce6-f299c834e68c" />
