@@ -6,6 +6,7 @@
 ![𝘉𝘶𝘭𝘭𝘦𝘵𝘴](https://komarev.com/ghpvc/?username=sebvsene&label=𝘉𝘶𝘭𝘭𝘦𝘵𝘴%20&base=5678&color=9087BD&style=flat-square)
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A3669&center=true&vCenter=true&width=435&lines=;+I+died+a+HERO.+;+Say+hi+to+Joker+for+me.;+Hush+up,+constable.+Daddy's+busy.;+Be+a+doll+and+hand+me+my+gun.;+Try+and+catch+me,+you+big+boob!;Hello,+safe+house.+Hello,+bed.) 
+
 <br>
 <img width="698" height="357" alt="Untitled9_20260803123531" src="https://github.com/user-attachments/assets/7914b396-745e-4951-9e84-c529d29ac8d8" />
 
