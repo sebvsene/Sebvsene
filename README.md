@@ -1,12 +1,12 @@
 <div align="center">
 <img width="666" height="298" alt="Untitled11_20260803123545" src="https://github.com/user-attachments/assets/e699cfab-e1c6-431a-9f74-22e828af0cf2" /> 
-<br>
-<img width="75" height="75" alt="Untitled16_20260803134649" src="https://github.com/user-attachments/assets/c5612e6c-1ec2-4942-9910-a473d019edc8" /> <img width="80" height="80" alt="Untitled16_20260803134843" src="https://github.com/user-attachments/assets/c925698a-91cd-46ce-965e-d9da14f2247c" />
+<br> 
 
-![𝘉𝘶𝘭𝘭𝘦𝘵𝘴](https://komarev.com/ghpvc/?username=sebvsene&label=𝘉𝘶𝘭𝘭𝘦𝘵𝘴%20&base=5678&color=9087BD&style=flat-square)
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A3669&center=true&vCenter=true&width=435&lines=;+I+died+a+HERO.+;+Say+hi+to+Joker+for+me.;+Hush+up,+constable.+Daddy's+busy.;+Be+a+doll+and+hand+me+my+gun.;+Try+and+catch+me,+you+big+boob!;Hello,+safe+house.+Hello,+bed.) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A3669&center=true&vCenter=true&width=435&lines=;+I+died+a+HERO.+;+Say+hi+to+Joker+for+me.;+Hush+up,+constable.+Daddy's+busy.;+Be+a+doll+and+hand+me+my+gun.;+Try+and+catch+me,+you+big+boob!;Hello,+safe+house.+Hello,+bed.)
 
+<img width="75" height="75" alt="Untitled16_20260803134649" src="https://github.com/user-attachments/assets/c5612e6c-1ec2-4942-9910-a473d019edc8" /> <img width="80" height="80" alt="Untitled16_20260803134843" src="https://github.com/user-attachments/assets/c925698a-91cd-46ce-965e-d9da14f2247c" /> 
+
+![𝘉𝘶𝘭𝘭𝘦𝘵𝘴](https://komarev.com/ghpvc/?username=sebvsene&label=𝘉𝘶𝘭𝘭𝘦𝘵𝘴%20&base=5678&color=9087BD&style=flat-square) 
 <br>
 <img width="698" height="357" alt="Untitled9_20260803123531" src="https://github.com/user-attachments/assets/7914b396-745e-4951-9e84-c529d29ac8d8" />
 
