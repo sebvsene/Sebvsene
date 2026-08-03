@@ -10,7 +10,7 @@
 <br>
 
 ⸝⸝ [![新BOOK](https://img.shields.io/badge/-新BOOK-9087BD?style=for-the-badge&logo=book&logoColor=black)](https://sebvsene.atabook.org) 
-[![STRAWPAGE](https://img.shields.io/badge/-STRAWPAGE-2A3669?style=for-the-badge&logo=bat&logoColor=EDFFFF)](https://sebvsene.straw.page) [![RENTRY](https://img.shields.io/badge/-RENTRY-9087BD?style=for-the-badge&logo=gun&logoColor=black)](https://rentry.co/worldsgreatestvigilante)  [![RENTRY/MATCHING](https://img.shields.io/badge/-RENTRY/MATCHING-2A3669?style=for-the-badge&logo=bat&logoColor=EDFFFF)](https://rentry.co/thejusticeIeague) ⸝⸝
+[![STRAWPAGE](https://img.shields.io/badge/-STRAWPAGE-2A3669?style=for-the-badge&logo=bat&logoColor=EDFFFF)](https://sebvsene.straw.page) [![RENTRY](https://img.shields.io/badge/-RENTRY-9087BD?style=for-the-badge&logo=gun&logoColor=black)](https://rentry.co/worldsgreatestvigilante)  [![RENTRY/MATCHING](https://img.shields.io/badge/-RENTRY/MATCHING-2A3669?style=for-the-badge&logo=bat&logoColor=EDFFFF)](https://rentry.co/thejusticeIeague)  [![CARRD](https://img.shields.io/badge/-CARRD-9087BD?style=for-the-badge&logo=book&logoColor=9087BD)](https://sebvsenee.carrd.co) ⸝⸝
 
 $\color{#9087BD}{\textsf{Thee}}$ $\color{#2A3669}{\textsf{Jason}}$ $\color{#EDFFFF}{\textsf{Todd}}$ $\color{#9087BD}{\textsf{Of}}$ $\color{#2A3669}{\textsf{PonyTown.}}$<br>
 [𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯](https://github.com/title-town) · [
