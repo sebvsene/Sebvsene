@@ -1,6 +1,9 @@
 <div align="center">
 <img width="1200" height="675" alt="Untitled18_20260803162831" src="https://github.com/user-attachments/assets/cddc584d-5369-4c38-a921-0905ee402794" />
 <br> 
+  
+$\color{#9087BD}{\textsf{Jason}}$ $\color{#2A3669}{\textsf{Todd}}$ $\color{#EDFFFF}{\textsf{If}}$ $\color{#9087BD}{\textsf{He}}$ $\color{#2A3669}{\textsf{Was}}$ $\color{#9087BD}{\textsf{Real,}}$ $\color{#EDFFFF}{\textsf{Trust.}}$
+  
 <img width="75" height="75" alt="Untitled16_20260803134649" src="https://github.com/user-attachments/assets/c5612e6c-1ec2-4942-9910-a473d019edc8" /> <img width="80" height="80" alt="Untitled16_20260803134843" src="https://github.com/user-attachments/assets/c925698a-91cd-46ce-965e-d9da14f2247c" /> 
 
 ![𝘉𝘶𝘭𝘭𝘦𝘵𝘴](https://komarev.com/ghpvc/?username=sebvsene&label=𝘉𝘶𝘭𝘭𝘦𝘵𝘴%20&base=5678&color=9087BD&style=flat-square) 
