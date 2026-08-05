@@ -1,7 +1,7 @@
 <div align="center">
-<img width="1200" height="675" alt="Untitled18_20260804172402" src="https://github.com/user-attachments/assets/29589cdf-2230-49f4-8257-30bd62daaf5e" />
-<br> 
-  
+<img width="1200" height="675" alt="Untitled18_20260805104721" src="https://github.com/user-attachments/assets/d067142d-1030-484a-8fea-6dbeae6025d6" />
+<img width="350" height="300" alt="Untitled34_20260805104640" src="https://github.com/user-attachments/assets/0045a8de-a116-41a2-9448-b04667a0f154" />
+ 
 $\color{#9087BD}{\textsf{Jason}}$ $\color{#2A3669}{\textsf{Todd}}$ $\color{#EDFFFF}{\textsf{If}}$ $\color{#9087BD}{\textsf{He}}$ $\color{#2A3669}{\textsf{Was}}$ $\color{#9087BD}{\textsf{Real,}}$ $\color{#EDFFFF}{\textsf{Trust.}}$
   
 <img width="75" height="75" alt="Untitled16_20260803134649" src="https://github.com/user-attachments/assets/c5612e6c-1ec2-4942-9910-a473d019edc8" /> <img width="80" height="80" alt="Untitled16_20260803134843" src="https://github.com/user-attachments/assets/c925698a-91cd-46ce-965e-d9da14f2247c" /> 
