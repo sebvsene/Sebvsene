@@ -18,5 +18,7 @@ $\color{#9087BD}{\textsf{Thee}}$ $\color{#2A3669}{\textsf{Jason}}$ $\color{#EDFF
 <br> <br> <img width="80" height="80" alt="Untitled16_20260803134430" src="https://github.com/user-attachments/assets/655ee76a-e4ae-428c-ba7f-1ce4e332e3ec" /> <br><br> <img width="200" height="200" alt="Untitled22_20260803170911" src="https://github.com/user-attachments/assets/cf3dff62-02fc-4828-b473-5f4e99c6dc9c" /> <img width="200" height="200" alt="Untitled22_20260803183855" src="https://github.com/user-attachments/assets/359e5534-7c12-4817-9f96-0c1336a906d4" /> <img width="200" height="200" alt="Untitled22_20260803184114" src="https://github.com/user-attachments/assets/8d0fd82f-e5b9-454e-9e42-c6c27884f8d2" />
 
 <img width="350" height="300" alt="Untitled34_20260805110223" src="https://github.com/user-attachments/assets/bdd26733-0379-4b13-b378-5c55854cc70a" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=true&background_color=555a93&interchange=false&profanity=false&hide_remaster=false&bar_color=f4fefe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img width="1200" height="675" alt="Untitled23_20260803171813" src="https://github.com/user-attachments/assets/42219e1e-a4e6-49c4-b9c0-bfbef62de39a" />
 
