@@ -20,6 +20,10 @@ $\color{#9087BD}{\textsf{Thee}}$ $\color{#2A3669}{\textsf{Jason}}$ $\color{#EDFF
 
 <img width="350" height="300" alt="Untitled34_20260805110223" src="https://github.com/user-attachments/assets/bdd26733-0379-4b13-b378-5c55854cc70a" />
 
+$\color{#9087BD}{\textsf{Awaw}}$ $\color{#2A3669}{\textsf{Superboy}}$ $\color{#EDFFFF}{\textsf{Prime!}}$
+
+$\color{#EDFFFF}{\textsf{I}}$ $\color{#9087BD}{\textsf{Love}}$ $\color{#2A3669}{\textsf{You}}$ $\color{#9087BD}{\textsf{Dearly.}}$
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=true&background_color=555a93&interchange=false&profanity=false&hide_remaster=false&bar_color=f4fefe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img width="1200" height="675" alt="Untitled23_20260803171813" src="https://github.com/user-attachments/assets/42219e1e-a4e6-49c4-b9c0-bfbef62de39a" />
 
