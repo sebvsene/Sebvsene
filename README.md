@@ -1,6 +1,6 @@
 <div align="center">
  
-[GOOGLE DOC ON MLGFAM READ READ READ !!](https://docs.google.com/document/d/1igWh6ldhN7tsAwMfw3KHfiZvO-_6tPmcyDEHam5h2Zs/edit?usp=drivesdk)
+[GOOGLE DOC ; ON MLGFAM.. !! READ READ READ !!](https://docs.google.com/document/d/1igWh6ldhN7tsAwMfw3KHfiZvO-_6tPmcyDEHam5h2Zs/edit?usp=drivesdk)
 
  <img width="1200" height="675" alt="Untitled18_20260805105751" src="https://github.com/user-attachments/assets/cc310833-f421-476c-b010-f3875485c86a" />
  
