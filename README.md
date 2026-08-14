@@ -25,5 +25,11 @@ $\color{#9087BD}{\textsf{Awaw}}$ $\color{#2A3669}{\textsf{Superboy}}$ $\color{#E
 $\color{#EDFFFF}{\textsf{I}}$ $\color{#9087BD}{\textsf{Love}}$ $\color{#2A3669}{\textsf{You}}$ $\color{#9087BD}{\textsf{Dearly.}}$
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=true&background_color=555a93&interchange=false&profanity=false&hide_remaster=false&bar_color=f4fefe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<img width="100" height="50" alt="Untitled59_20260813190637" src="https://github.com/user-attachments/assets/a0196b43-dc48-44f2-a096-bb61c2026798" />
+
+<img width="100" height="50" alt="Untitled59_20260813190549" src="https://github.com/user-attachments/assets/8eca12d9-adfa-43ab-b398-9b2de49dc9d6" />
+
+<img width="100" height="50" alt="Untitled59_20260813190705" src="https://github.com/user-attachments/assets/ac544331-3c1f-4220-bf19-8880d7bedb4f" />
 <img width="" height="" alt="IMG_0353" src="https://github.com/user-attachments/assets/d74f8896-78ad-4f22-8184-3ff54286dbb9" />
 
