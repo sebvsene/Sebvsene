@@ -32,6 +32,8 @@ $\color{#362C54}{\textsf{Thee}}$ $\color{#834E74}{\textsf{Jason}}$ $\color{#C4C3
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=false&background_color=25006a&interchange=false&profanity=false&hide_remaster=false&bar_color=8b2368&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [𝘱𝘵-𝘧𝘳𝘪𝘦𝘯𝘥𝘴𝘩𝘪𝘱𝘴](https://github.com/pt-friendships)
+
+$\color{#362C54}{\textsf{I}}$ $\color{#834E74}{\textsf{lob}}$ $\color{#C4C3B1}{\textsf{you}}$ $\color{#A75C81}{\textsf{Hal!}}$ $\color{#583D64}{\textsf{<3}}$ 
 <img width="" height="" alt="IMG_0671" src="https://github.com/user-attachments/assets/a0df9f37-0b5d-41ad-a819-334658df6867" />
 
 
