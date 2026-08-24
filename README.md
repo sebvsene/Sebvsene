@@ -3,11 +3,11 @@
 
 ![𝘉𝘶𝘭𝘭𝘦𝘵𝘴](https://komarev.com/ghpvc/?username=sebvsene&label=𝘉𝘶𝘭𝘭𝘦𝘵𝘴%20&base=5678&color=834E74&style=flat-square)
 
-$\color{#362C54}{\textsf{Jason}}$ $\color{#834E74}{\textsf{Todd}}$ $\color{#C4C3B1}{\textsf{If}}$ $\color{#A75C81}{\textsf{He}}$ $\color{#583D64}{\textsf{Was}}$ $\color{#D8D7DA}{\textsf{Real,}}$ $\color{#C4C3B1}{\textsf{Trust.}}$
+$\color{#362C54}{\texttt{Jason}}$ $\color{#834E74}{\texttt{Todd}}$ $\color{#C4C3B1}{\texttt{if}}$ $\color{#A75C81}{\texttt{he}}$ $\color{#583D64}{\texttt{was}}$ $\color{#D8D7DA}{\texttt{real,}}$ $\color{#C4C3B1}{\texttt{trust.}}$
 <table style="border: 2px solid #834E74; border-radius: 8px;">
   <tr>
     <td width="50%" style="padding: 20px; border-right: 2px solid #834E74;">
-      <strong style="color: #834E74;">$\color{#362C54}{\textsf{Thee}}$ $\color{#834E74}{\textsf{Jason}}$ $\color{#C4C3B1}{\textsf{Todd}}$ $\color{#A75C81}{\textsf{Of}}$ $\color{#583D64}{\textsf{PonyTown.}}$<br></strong>
+      <strong style="color: #834E74;">$\color{#362C54}{\textsf{Thee}}$ $\color{#834E74}{\texttt{Jason}}$ $\color{#C4C3B1}{\texttt{Todd}}$ $\color{#A75C81}{\texttt{Of}}$ $\color{#583D64}{\texttt{PonyTown.}}$<br></strong>
       <br><br>
       <a href="link1">@𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯</a><br>
       <a href="link2">@𝘱𝘵-𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘳𝘴</a><br>
@@ -22,7 +22,7 @@ $\color{#362C54}{\textsf{Jason}}$ $\color{#834E74}{\textsf{Todd}}$ $\color{#C4C3
     <td width="50%" style="padding: 20px; text-align: center;">
       <img width="200" height="200" alt="img" src="https://www.image2url.com/r2/default/images/1787601408562-81b39fe9-1d9d-4a91-ad34-c8d36eccfa36.png"/>
       <br><br>
-      <strong>$\color{#362C54}{\textsf{Prime}}$ $\color{#834E74}{\textsf{i}}$ $\color{#C4C3B1}{\textsf{love}}$ $\color{#A75C81}{\textsf{you}}$ $\color{#583D64}{\textsf{dearly.}}$</strong>
+      <strong>$\color{#362C54}{\texttt{Prime}}$ $\color{#834E74}{\texttt{i}}$ $\color{#C4C3B1}{\texttt{love}}$ $\color{#A75C81}{\texttt{you}}$ $\color{#583D64}{\texttt{dearly.}}$</strong>
     </td>
   </tr>
 </table>
@@ -36,7 +36,7 @@ $\color{#362C54}{\textsf{Jason}}$ $\color{#834E74}{\textsf{Todd}}$ $\color{#C4C3
 
 [𝘱𝘵-𝘧𝘳𝘪𝘦𝘯𝘥𝘴𝘩𝘪𝘱𝘴](https://github.com/pt-friendships)
 
-$\color{#362C54}{\textsf{I}}$ $\color{#834E74}{\textsf{lob}}$ $\color{#C4C3B1}{\textsf{you}}$ $\color{#A75C81}{\textsf{Hal!}}$ $\color{#583D64}{\textsf{<3}}$ 
+$\color{#362C54}{\texttt{I}}$ $\color{#834E74}{\texttt{lob}}$ $\color{#C4C3B1}{\texttt{you}}$ $\color{#A75C81}{\texttt{Hal!}}$ $\color{#583D64}{\texttt{<3}}$ 
 <img width="" height="" alt="IMG_0671" src="https://github.com/user-attachments/assets/a0df9f37-0b5d-41ad-a819-334658df6867" />
 
 
