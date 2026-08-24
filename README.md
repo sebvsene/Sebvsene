@@ -20,9 +20,9 @@ $\color{#362C54}{\textsf{Jason}}$ $\color{#834E74}{\textsf{Todd}}$ $\color{#C4C3
       <a href=“link9”>@𝘱𝘢𝘸-𝘵𝘰𝘸𝘯</a>
     </td>
     <td width="50%" style="padding: 20px; text-align: center;">
-      <img width="200" height="200" alt="img" src="(https://www.image2url.com/r2/default/images/1787601408562-81b39fe9-1d9d-4a91-ad34-c8d36eccfa36.png)" />
+      <img width="200" height="200" alt="img" src="https://www.image2url.com/r2/default/images/1787601408562-81b39fe9-1d9d-4a91-ad34-c8d36eccfa36.png"/>
       <br><br>
-      <strong>img</strong>
+      <strong>$\color{#362C54}{\textsf{Prime}}$ $\color{#834E74}{\textsf{i}}$ $\color{#C4C3B1}{\textsf{love}}$ $\color{#A75C81}{\textsf{you}}$ $\color{#583D64}{\textsf{dearly.}}$</strong>
     </td>
   </tr>
 </table>
