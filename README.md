@@ -32,6 +32,8 @@ $\color{#362C54}{\texttt{Jason}}$ $\color{#834E74}{\texttt{Todd}}$ $\color{#C4C3
 [![PRNS.PG](https://img.shields.io/badge/-PRNS.PG-834E74?style=for-the-badge&logo=bat&logoColor=BDBFC2)](https://en.pronouns.page/@sebvsene)
 <br>
 <br>
+<img width="" height="" alt="IMG_0692" src="https://github.com/user-attachments/assets/55b8d178-7705-420e-9521-762bda1a992d" />
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=false&background_color=25006a&interchange=false&profanity=false&hide_remaster=false&bar_color=8b2368&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [𝘱𝘵-𝘧𝘳𝘪𝘦𝘯𝘥𝘴𝘩𝘪𝘱𝘴](https://github.com/pt-friendships)
