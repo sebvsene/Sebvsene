@@ -12,12 +12,12 @@ $\color{#362C54}{\textsf{Jason}}$ $\color{#834E74}{\textsf{Todd}}$ $\color{#C4C3
       <a href="link1">@𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯</a><br>
       <a href="link2">@𝘱𝘵-𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘳𝘴</a><br>
       <a href="link3">@𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴𝘰𝘧𝘱𝘵</a><br>
-      <a href="link4">@𝘱𝘵-𝘰𝘧-𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘯𝘦𝘴𝘴</a>
-      <a href=“link5”>@𝘱𝘰𝘯𝘺𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴</a>
-      <a href=“link6”>@𝘱𝘰𝘯𝘺𝘵𝘰𝘸𝘯-𝘯𝘰𝘮𝘪𝘯𝘢𝘵𝘪𝘰𝘯𝘴</a>
-      <a href=“link7”>@𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴𝘰𝘧𝘱𝘵</a>
-      <a href=“link8”>@𝘤𝘰𝘴𝘱𝘭𝘢𝘺𝘵𝘰𝘸𝘯</a>
-      <a href=“link9”>@𝘱𝘢𝘸-𝘵𝘰𝘸𝘯</a>
+      <a href="link4">@𝘱𝘵-𝘰𝘧-𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘯𝘦𝘴𝘴</a><br>
+      <a href=“link5”>@𝘱𝘰𝘯𝘺𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴</a><br>
+      <a href=“link6”>@𝘱𝘰𝘯𝘺𝘵𝘰𝘸𝘯-𝘯𝘰𝘮𝘪𝘯𝘢𝘵𝘪𝘰𝘯𝘴</a><br>
+      <a href=“link7”>@𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴𝘰𝘧𝘱𝘵</a><br>
+      <a href=“link8”>@𝘤𝘰𝘴𝘱𝘭𝘢𝘺𝘵𝘰𝘸𝘯</a><br>
+      <a href=“link9”>@𝘱𝘢𝘸-𝘵𝘰𝘸𝘯</a><br>
     </td>
     <td width="50%" style="padding: 20px; text-align: center;">
       <img width="200" height="200" alt="img" src="https://www.image2url.com/r2/default/images/1787601408562-81b39fe9-1d9d-4a91-ad34-c8d36eccfa36.png"/>
