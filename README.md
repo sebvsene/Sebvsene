@@ -29,6 +29,8 @@ $\color{#9087BD}{\textsf{Awaw}}$ $\color{#2A3669}{\textsf{Superboy}}$ $\color{#E
 
 $\color{#EDFFFF}{\textsf{I}}$ $\color{#9087BD}{\textsf{Love}}$ $\color{#2A3669}{\textsf{You}}$ $\color{#9087BD}{\textsf{Dearly.}}$
 
+[𝘱𝘵-𝘧𝘳𝘪𝘦𝘯𝘥𝘴𝘩𝘪𝘱𝘴](https://github.com/pt-friendships)
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=true&background_color=555a93&interchange=false&profanity=false&hide_remaster=false&bar_color=f4fefe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img width="" height="" alt="IMG_0353" src="https://github.com/user-attachments/assets/d74f8896-78ad-4f22-8184-3ff54286dbb9" />
 
