@@ -38,6 +38,4 @@ $\color{#362C54}{\texttt{Jason}}$ $\color{#834E74}{\texttt{Todd}}$ $\color{#C4C3
 [𝘱𝘵-𝘧𝘳𝘪𝘦𝘯𝘥𝘴𝘩𝘪𝘱𝘴](https://github.com/pt-friendships)
 
 $\color{#362C54}{\texttt{I}}$ $\color{#834E74}{\texttt{lob}}$ $\color{#C4C3B1}{\texttt{you}}$ $\color{#A75C81}{\texttt{Hal!}}$ $\color{#583D64}{\texttt{<3}}$ 
-<img width="" height="" alt="IMG_0671" src="https://github.com/user-attachments/assets/a0df9f37-0b5d-41ad-a819-334658df6867" />
-
-
+<img width="" height="" alt="IMG_0700" src="https://github.com/user-attachments/assets/ef4fe679-c5f6-4d4e-a5b0-0a44d5446233" />
