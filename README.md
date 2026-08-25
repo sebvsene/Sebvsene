@@ -37,7 +37,7 @@ $\color{#C4C3B1}{\texttt{꒰}}$  [![新BOOK](https://img.shields.io/badge/-新BO
 <br>
 <img width="" height="" alt="IMG_0692" src="https://github.com/user-attachments/assets/55b8d178-7705-420e-9521-762bda1a992d" />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=false&background_color=25006a&interchange=false&profanity=false&hide_remaster=false&bar_color=8b2368&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+$\color{#C4C3B1}{\texttt{꒰}}$ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=false&background_color=25006a&interchange=false&profanity=false&hide_remaster=false&bar_color=8b2368&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  $\color{#C4C3B1}{\texttt{꒱}}$
 
 [𝘱𝘵-𝘧𝘳𝘪𝘦𝘯𝘥𝘴𝘩𝘪𝘱𝘴](https://github.com/pt-friendships)
 
