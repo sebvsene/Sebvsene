@@ -26,9 +26,11 @@ $\color{#362C54}{\texttt{Jason}}$ $\color{#834E74}{\texttt{Todd}}$ $\color{#C4C3
   </tr>
 </table>
 
+$\color{#D8D7DA}{\texttt{────۶ৎ────}}$
+
 [![新BOOK](https://img.shields.io/badge/-新BOOK-834E74?style=for-the-badge&logo=book&logoColor=black)](https://sebvsene.atabook.org) 
-[![STRAWPAGE](https://img.shields.io/badge/-STRAWPAGE-A75C81?style=for-the-badge&logo=bat&logoColor=real)](https://sebvsene.straw.page) [![RENTRY](https://img.shields.io/badge/-RENTRY-362C54?style=for-the-badge&logo=gun&logoColor=black)](https://rentry.co/worldsgreatestvigilante)  [![RENTRY/MATCHING](https://img.shields.io/badge/-RENTRY/MATCHING-A75C81?style=for-the-badge&logo=bat&logoColor=D8D7DA)](https://rentry.co/thejusticeIeague)  [![CARRD](https://img.shields.io/badge/-CARRD-362C54?style=for-the-badge&logo=book&logoColor=834E74)](https://sebvsenee.carrd.co)
-[![PRNS.PG](https://img.shields.io/badge/-PRNS.PG-834E74?style=for-the-badge&logo=bat&logoColor=BDBFC2)](https://en.pronouns.page/@sebvsene)
+[![STRAWPAGE](https://img.shields.io/badge/-STRAWPAGE-A75C81?style=for-the-badge&logo=bat&logoColor=D8D7DA)](https://sebvsene.straw.page) [![RENTRY](https://img.shields.io/badge/-RENTRY-362C54?style=for-the-badge&logo=gun&logoColor=black)](https://rentry.co/worldsgreatestvigilante)  [![RENTRY/MATCHING](https://img.shields.io/badge/-RENTRY/MATCHING-A75C81?style=for-the-badge&logo=bat&logoColor=D8D7DA)](https://rentry.co/thejusticeIeague)  [![CARRD](https://img.shields.io/badge/-CARRD-362C54?style=for-the-badge&logo=book&logoColor=D8D7DA)](https://sebvsenee.carrd.co)
+[![PRNS.PG](https://img.shields.io/badge/-PRNS.PG-834E74?style=for-the-badge&logo=bat&logoColor=D8D7DA)](https://en.pronouns.page/@sebvsene)
 <br>
 <br>
 <img width="" height="" alt="IMG_0692" src="https://github.com/user-attachments/assets/55b8d178-7705-420e-9521-762bda1a992d" />
