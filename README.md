@@ -36,9 +36,11 @@ $\color{#C4C3B1}{\texttt{꒰}}$  [![新BOOK](https://img.shields.io/badge/-新BO
 <br>
 <br>
 
-$\color{#362C54}{\texttt{My}}$ $\color{#834E74}{\texttt{pony}}$ $\color{#C4C3B1}{\texttt{ok?}}$
+$\color{#362C54}{\texttt{My}}$ $\color{#834E74}{\texttt{ponies}}$ $\color{#C4C3B1}{\texttt{ok?}}$
 
-<img width="" height="" alt="IMG_0692" src="https://github.com/user-attachments/assets/55b8d178-7705-420e-9521-762bda1a992d" />
+<img width="" height="" alt="IMG_0692" src="https://github.com/user-attachments/assets/55b8d178-7705-420e-9521-762bda1a992d" /> <img width="" height="" alt="IMG_0758" src="https://github.com/user-attachments/assets/5de08cac-cb15-47c1-be35-c26596426409" />
+
+$\color{#C4C3B1}{\texttt{DNC!!}}$
 
 $\color{#C4C3B1}{\texttt{꒰}}$ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=false&background_color=25006a&interchange=false&profanity=false&hide_remaster=false&bar_color=8b2368&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  $\color{#C4C3B1}{\texttt{꒱}}$
 
