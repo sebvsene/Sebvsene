@@ -42,7 +42,7 @@ $\color{#362C54}{\texttt{My}}$ $\color{#834E74}{\texttt{ponies}}$ $\color{#C4C3B
 
 $\color{#C4C3B1}{\texttt{DNC!!}}$
 
-$\color{#C4C3B1}{\texttt{꒰}}$ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=false&background_color=25006a&interchange=false&profanity=false&hide_remaster=false&bar_color=8b2368&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  $\color{#C4C3B1}{\texttt{꒱}}$
+$\color{#A75C81}{\texttt{꒰}}$ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=false&background_color=25006a&interchange=false&profanity=false&hide_remaster=false&bar_color=8b2368&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  $\color{#A75C81}{\texttt{꒱}}$
 
 [𝘱𝘵-𝘧𝘳𝘪𝘦𝘯𝘥𝘴𝘩𝘪𝘱𝘴](https://github.com/pt-friendships)
 
