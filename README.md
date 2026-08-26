@@ -32,7 +32,7 @@ $\color{#C4C3B1}{\texttt{────۶ৎ────}}$
 
 $\color{#C4C3B1}{\texttt{꒰}}$  [![新BOOK](https://img.shields.io/badge/-新BOOK-834E74?style=for-the-badge&logo=book&logoColor=black)](https://sebvsene.atabook.org) 
 [![STRAWPAGE](https://img.shields.io/badge/-STRAWPAGE-A75C81?style=for-the-badge&logo=bat&logoColor=D8D7DA)](https://sebvsene.straw.page) [![RENTRY](https://img.shields.io/badge/-RENTRY-362C54?style=for-the-badge&logo=gun&logoColor=black)](https://rentry.co/worldsgreatestvigilante)  [![RENTRY/MATCHING](https://img.shields.io/badge/-RENTRY/MATCHING-A75C81?style=for-the-badge&logo=bat&logoColor=D8D7DA)](https://rentry.co/thejusticeIeague)  [![CARRD](https://img.shields.io/badge/-CARRD-362C54?style=for-the-badge&logo=book&logoColor=D8D7DA)](https://sebvseneees.carrd.co)
-[![PRNS.PG](https://img.shields.io/badge/-PRNS.PG-834E74?style=for-the-badge&logo=bat&logoColor=D8D7DA)](https://en.pronouns.page/@sebvsene)  $\color{#C4C3B1}{\texttt{꒱}}$
+[![PRNS.PG](https://img.shields.io/badge/-PRNS.PG-834E74?style=for-the-badge&logo=bat&logoColor=D8D7DA)](https://en.pronouns.page/@sebvsene)  [![LOVEMAIL](https://img.shields.io/badge/-LOVEMAIL-362C54?style=for-the-badge&logo=book&logoColor=D8D7DA)](https://rentry.co/lovemail-fromJay) $\color{#C4C3B1}{\texttt{꒱}}$
 <br>
 <br>
 
