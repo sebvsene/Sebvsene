@@ -33,12 +33,10 @@ $\color{#A75C81}{\texttt{────۶ৎ────}}$
 $\color{#362C54}{\texttt{꒰}}$  [![新BOOK](https://img.shields.io/badge/-新BOOK-834E74?style=flat-square&logo=book&logoColor=black)](https://sebvsene.atabook.org) $\color{#C4C3B1}{\texttt{︵}}$ [![STRAWPAGE](https://img.shields.io/badge/-STRAWPAGE-A75C81?style=flat-square&logo=book&logoColor=bat)](https://sebvsene.straw.page) $\color{#C4C3B1}{\texttt{︵}}$ [![MAIN RENTRY](https://img.shields.io/badge/-RENTRY-362C54?style=flat-square&logo=book&logoColor=bat)](https://rentry.co/worldsgreatestvigilante) $\color{#C4C3B1}{\texttt{︵}}$ [![MATCHING](https://img.shields.io/badge/-MATCHING-A75C81?style=flat-square&logo=book&logoColor=bat)](https://rentry.co/thejusticeIeague) $\color{#C4C3B1}{\texttt{︵}}$ [![CARRD](https://img.shields.io/badge/-CARRD-362C54?style=flat-square&logo=book&logoColor=bat)](https://sebvseneees.carrd.co) $\color{#C4C3B1}{\texttt{︵}}$ [![PRNS.PG](https://img.shields.io/badge/-PRNS.PG-834E74?style=flat-square&logo=book&logoColor=bat)](https://en.pronouns.page/@sebvsene) $\color{#C4C3B1}{\texttt{︵}}$ [![LOVEMAIL](https://img.shields.io/badge/-LOVEMAIL-A75C81?style=flat-square&logo=book&logoColor=bat)](https://rentry.co/lovemail-fromJay) $\color{#362C54}{\texttt{꒱}}$
 <br>
 <br>
+<img width="120" height="100" alt="Untitled64_20260829001807" src="https://github.com/user-attachments/assets/92f1e25d-55aa-441e-a4ca-aac330448120" /> <img width="120" height="100" alt="Untitled64_20260829001949" src="https://github.com/user-attachments/assets/00f9c76f-db19-4a7b-b5db-edd61e307327" /> <img width="120" height="100" alt="Untitled64_20260829002310" src="https://github.com/user-attachments/assets/c4ac6b80-8196-4df1-b53b-af2d7f61b73c" />
 
-$\color{#362C54}{\texttt{My}}$ $\color{#834E74}{\texttt{ponies}}$ $\color{#C4C3B1}{\texttt{ok?}}$
 
-<img width="" height="" alt="IMG_0692" src="https://github.com/user-attachments/assets/55b8d178-7705-420e-9521-762bda1a992d" /> <img width="" height="" alt="IMG_0758" src="https://github.com/user-attachments/assets/5de08cac-cb15-47c1-be35-c26596426409" />
 
-$\color{#C4C3B1}{\texttt{DNC!!}}$
 
 $\color{#A75C81}{\texttt{꒰}}$ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=false&background_color=25006a&interchange=false&profanity=false&hide_remaster=false&bar_color=8b2368&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  $\color{#A75C81}{\texttt{꒱}}$
 
