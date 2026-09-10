@@ -25,9 +25,15 @@ $\color{#362C54}{\texttt{Jason}}$ $\color{#834E74}{\texttt{Todd}}$ $\color{#C4C3
     <td width="50%" style="padding: 20px; text-align: center;">
       <img width="200" height="200" alt="img" src="https://www.image2url.com/r2/default/images/1787601408562-81b39fe9-1d9d-4a91-ad34-c8d36eccfa36.png"/>
       <br><br>
-      <strong>$\color{#362C54}{\texttt{Num 1}}$ $\color{#834E74}{\texttt{Primehood}}$ $\color{#C4C3B1}{\texttt{shipper!}}$ 
+      <strong>$\color{#362C54}{\texttt{Num 1}}$ $\color{#834E74}{\texttt{Primehood}}$ $\color{#C4C3B1}{\texttt{shipper!}}$
 <br>
+$\color{#C4C3B1}{\texttt{♡}}$
 <a href="https://github.com/ship-town">@𝘴𝘩𝘪𝘱-𝘵𝘰𝘸𝘯</a>
+<br>
+<strong>$\color{#362C54}{\texttt{Superboy}}$ $\color{#834E74}{\texttt{Prime’s}}$ $\color{#C4C3B1}{\texttt{one n only.}}$
+<br>
+$\color{#C4C3B1}{\texttt{♡}}$
+<a href="https://github.com/pt-loveforfictional">@𝘱𝘵-𝘭𝘰𝘷𝘦𝘧𝘰𝘳𝘧𝘪𝘤𝘵𝘪𝘰𝘯𝘢𝘭</a>
     </td>
   </tr>
 </table>
